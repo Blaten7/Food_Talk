@@ -40,7 +40,7 @@ spring:
       max-request-size: 1000000000000MB
 
 server:
-  port: 80
+  port: 8081
   tomcat:
     max-http-form-post-size: 1048576000000
 
