@@ -1,7 +1,7 @@
 ▶ 프로젝트 : 그리팅 카피 및 변경 <br>
 ▶ https://www.greating.co.kr/careMain?gad_source=1&gclid=CjwKCAjwufq2BhAmEiwAnZqw8kneUbYpEXmNjgk4lyVmlpXaJVS4t1p5OQpPxSC4w8YW-C4abjfEaxoC3fIQAvD_BwE <br>
 <br>
-▶ 배포 : finalproject-icia-greating.duckdns.org [GCP]
+▶ 배포 : finalproject-icia-greating.duckdns.org [GCP] <br>
 ▶ 개발기간 2024.07.01 ~ 2024.08.15 <br>
 ▶ 참여인원 : 풀스택 및 DB 1명, 풀스택 1명, 백엔드 1명, 총 3명 <br>
 
