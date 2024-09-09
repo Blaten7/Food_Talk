@@ -48,7 +48,6 @@
     <td>      
       <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
       <img src="https://img.shields.io/badge/summernote-0287D0?style=for-the-badge&logo=summbernote&logoColor=white">
-      <img src="https://img.shields.io/badge/KAKAO Maps-FFCD00?style=for-the-badge&logo=KAKAO Maps&logoColor=white">
       <img src="https://img.shields.io/badge/KAKAO Pay-FFCD00?style=for-the-badge&logo=KAKAO Pay&logoColor=white">
     </td>
   </tr>
