@@ -2,7 +2,11 @@
 ▶ https://www.greating.co.kr/careMain?gad_source=1&gclid=CjwKCAjwufq2BhAmEiwAnZqw8kneUbYpEXmNjgk4lyVmlpXaJVS4t1p5OQpPxSC4w8YW-C4abjfEaxoC3fIQAvD_BwE <br>
 <br>
 ▶ 배포 : (http://finalproject-icia-greating.duckdns.org/member/login) [GCP] <br>
-▶ 현재 배포 관련 에러사항 수정중입니다. <br>
+▶ 현재 배포 관련 에러사항 <br>
+  1. 메인페이지 진입불가 <br>
+  2. 로그인 에러 [DB연결 에러로 추정] <br>
+  3. 2로 인한 관리자페이지 진입 불가 <br>
+위의 에러를 수정중에 있습니다. <br>
 ▶ 개발기간 2024.07.01 ~ 2024.08.15 <br>
 ▶ 참여인원 : 풀스택 및 DB 1명, 풀스택 1명, 백엔드 1명, 총 3명 <br>
 
