@@ -1,8 +1,12 @@
 ▶ 프로젝트 : 그리팅 카피 및 변경 <br>
-▶ https://www.greating.co.kr/careMain?gad_source=1&gclid=CjwKCAjwufq2BhAmEiwAnZqw8kneUbYpEXmNjgk4lyVmlpXaJVS4t1p5OQpPxSC4w8YW-C4abjfEaxoC3fIQAvD_BwE <br>
+▶ https://www.greating.co.kr/ <br>
 <br>
 ▶ 개발기간 2024.07.01 ~ 2024.08.15 <br>
 ▶ 참여인원 : 풀스택 및 DB 1명, 풀스택 1명, 백엔드 1명, 총 3명 <br>
+
+▶ 역 할 : 백엔드 담당으로 메인페이지 일부(5개 뷰페이지) 구현 및 css <br>
+&nbsp;&nbsp;&nbsp;&nbsp;관리자페이지 ERP 시스템 참고하여 전반 제작
+
 ▶ 배포 : (http://finalproject-icia-greating.duckdns.org/member/login) [GCP] <br>
 ▶ 현재 배포 관련 에러사항 <br>
   1. 메인페이지 진입불가 <br>
