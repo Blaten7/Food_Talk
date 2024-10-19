@@ -13,7 +13,7 @@ spring:
 
   datasource:
     driver-class-name: net.sf.log4jdbc.sql.jdbcapi.DriverSpy
-    url: jdbc:log4jdbc:mysql://121.65.47.74:4000/mydb?characterEncoding=UTF-8&serverTimezone=Asia/Seoul
+    url: jdbc:log4jdbc:mysql://127.0.0.1:3306/mydb?characterEncoding=UTF-8&serverTimezone=Asia/Seoul
     username: icia
     password: 1111
 
