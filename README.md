@@ -1,7 +1,7 @@
 ▶ 프로젝트 : 그리팅 카피 및 변경 <br>
 https://www.greating.co.kr/ <br>
 배포 : http://projectgreating.duckdns.org:8081/ <br>
-관리자 id : ddd<br>
+관리자 id : anrqlcdmlrja@naver.com<br>
 관리자 pw : 1111
 <br>
 ▶ 개발기간 2024.07.01 ~ 2024.08.15 <br>
