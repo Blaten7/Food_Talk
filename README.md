@@ -61,36 +61,36 @@ https://www.greating.co.kr/ <br>
 </table>
 <hr>
 <details>
-  <summary><h2>▶ 프로젝트 메인 페이지</h2></summary>
+  <summary><h2> 프로젝트 메인 페이지</h2></summary>
     <img src="https://github.com/user-attachments/assets/66afabf9-c34c-4eff-87b5-8b31c3979d0c">
 </details>
 <hr>
 <details>
-  <summary><h2>▶ 로그인 페이지</h2></summary>
+  <summary><h2> 로그인 페이지</h2></summary>
   <img src="https://github.com/user-attachments/assets/45914d35-d0b7-4d0e-9f10-1aaa22e66eff">
     <details>
-        <summary><h2>▶ 아이디 찾기</h2></summary>
+        <summary><h2> 아이디 찾기</h2></summary>
     </details>
     <details>
-        <summary><h2>▶ 비밀번호 찾기</h2></summary>
+        <summary><h2> 비밀번호 찾기</h2></summary>
     </details>
 </details>
 <hr>
 <details>
-        <summary><h2>▶ 회원가입 페이지</h2></summary>
+        <summary><h2> 회원가입 페이지</h2></summary>
 회원 정보 입력 후 회원가입
 <img src="https://github.com/user-attachments/assets/0fc51192-49a3-479f-8a59-3be679e4d04b">
 
 </details>
 <hr>
 <details>
-        <summary><h2>▶ 식자재 페이지</h2></summary>
+        <summary><h2> 식자재 페이지</h2></summary>
 카테고리별 리스트 출력
 <img src="https://github.com/user-attachments/assets/013893a9-fcb9-411a-b6b4-7cc46333f5d5">
 </details>
 <hr>
 <details>
-        <summary><h2>▶ 식자재 상세페이지</h2></summary>
+        <summary><h2> 식자재 상세페이지</h2></summary>
 ▶ 장바구니 클릭 시 장바구니로 이동<br>
 ▶ 구매하기 클릭 시 구매히기로 이동<br>
 ▶ 상품 정보 디테일 하게 확인 가능<br>
@@ -98,14 +98,14 @@ https://www.greating.co.kr/ <br>
 </details>
 <hr>
 <details>
-        <summary><h2>▶ 장바구니 페이지</h2></summary>
+        <summary><h2> 장바구니 페이지</h2></summary>
 <img src="https://github.com/user-attachments/assets/4c9d47ef-4b38-454c-a0ca-045c05a6bc43">
 ▶ 장바구니 추가한 리스트 출력<br>
 ▶ 각 수략 금액, 각 리스트 금액, 총 상품 긍액 출력<br>
 </details>
 <hr>
 <details>
-        <summary><h2>▶ 주문결제 페이지</h2></summary>
+        <summary><h2> 주문결제 페이지</h2></summary>
 ▶ DB 에 입력된 주문자 정보 출력<br>
 ▶ 배송지 정보 입력창<br>
 ▶ 주소 찾기는 카카오 Api 사용<br>
@@ -115,7 +115,7 @@ https://www.greating.co.kr/ <br>
 </details>
 <hr>
 <details>
-        <summary><h2>▶ 마이 페이지</h2></summary>
+        <summary><h2> 마이 페이지</h2></summary>
 ▶ 결제한 리스트 출력<br>
 ▶ 제목 클릭 시 상세내역 확인 가능<br>
 ▶ 배송 상태에 따라(배송 준비중, 배송 중, 배송완료) 출력 <br>
@@ -123,19 +123,19 @@ https://www.greating.co.kr/ <br>
 </details>
 <hr>
 <details>
-        <summary><h2>▶ 물물교환 페이지</h2></summary>
+        <summary><h2> 물물교환 페이지</h2></summary>
 ▶ 전체 ,날짜, 조회, 추천순으로 정렬 가능<br>
 ▶ 물물교환 게시글 출력 <br>
 <img src="https://github.com/user-attachments/assets/d33cdebc-fc34-45d0-9281-0ba638fe4ea0">
 </details>
 <hr>
 <details>
-        <summary><h2>▶ 관리자 페이지</h2></summary>
+        <summary><h2> 관리자 페이지</h2></summary>
 <img src="https://github.com/user-attachments/assets/a8e1af50-0fa2-4d40-a33f-e353439d1207">
 </details>
 <hr>
 <details>
-        <summary><h2>▶ 배송관리 페이지</h2></summary>
+        <summary><h2> 배송관리 페이지</h2></summary>
 ▶ 배송 상태 여부 확인<br>
 ▶ 일간 배송 증가량 확인<br>
 ▶ 금일 배송 전 상품 확인<br>
@@ -144,14 +144,14 @@ https://www.greating.co.kr/ <br>
 </details>
 <hr>
 <details>
-        <summary><h2>▶ 홈페이지 관리</h2></summary>
+        <summary><h2> 홈페이지 관리</h2></summary>
 ▶ 레시피, 식자재, 카테고리 버튼에 따라 게시글 출력<br>
 ▶ 해당 리스트 안에서 추가 또는 삭제 가능<br>
 <img src="https://github.com/user-attachments/assets/d4d29277-9d3f-4ae1-b556-d8bb355fd462">
 </details>
 <hr>
 <details>
-        <summary><h2>▶ 재고 관리</h2></summary>
+        <summary><h2> 재고 관리</h2></summary>
 ▶ 현재 가지고 있는 재고량 확인 <br>
 ▶ 등록일, 유통기한, 카테고리 등 버튼에 따라 정렬<br>
 <img src="https://github.com/user-attachments/assets/2b8f33dd-a623-48c1-ba04-8685190fda65">
